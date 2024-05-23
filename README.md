@@ -1,4 +1,4 @@
-![image](https://github.com/sugarycok/yolov5.project/assets/167059284/39d9dbb1-6ba4-47db-aa38-b4ddeff52654)# 오토바이 감지 커스텀 모델.
+# 오토바이 감지 커스텀 모델.
 
 이 프로젝트는 제가 제작한 커스텀모델을 이용해 오토바이와 그 오토바이의 번호판을 인식하는 AI를 제작하고 Flask를 이용해 이미지를 업로드해 감지하게 만드는 프로그램을 제작하였습니다.<br>
 
